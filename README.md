@@ -7,8 +7,8 @@ This project is a simple implementation of the classic Tic-Tac-Toe game in C. Th
 
 # Demo
 
-![TictactoeInput](tictactoeinput.PNG)
-![tictactoeGame](tictactoe.PNG)
+![TictactoeInput](tictactoeinput.png)
+![tictactoeGame](tictactoe.png)
 
 
 
