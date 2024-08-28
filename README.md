@@ -1,7 +1,3 @@
-# C-Programming-Course
-This repository contains some C programming projects.
-To be continued!
-
 # Tic Tac Toe
 This project is a simple implementation of the classic Tic-Tac-Toe game in C. The game is played between two players, with one player being X and the other O. The objective of the game is to be the first player to get three of their marks in a row (horizontally, vertically, or diagonally) on a 3x3 grid.
 
